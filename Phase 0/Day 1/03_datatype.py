@@ -6,6 +6,7 @@ Tuple=("Tuple ka T bda" ,"hai")
 Set={11,11,22,33,33,22,11,11,15,116}
 List=[14,14,14,14,14,16,1,6116,161,16,1,16,6]
 
+
 print(type(Number),Number)
 print(type(Float),Float)
 print(type(string),string)

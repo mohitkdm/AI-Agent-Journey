@@ -25,7 +25,9 @@ print(c or d,"or ")
 print(not c,"not ")
 
 # assignment 
+'''
 print("d" += c)
 print("d" -= d)
 print("c" *= d)
 print("c" /= d)
+'''

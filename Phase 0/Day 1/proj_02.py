@@ -1,5 +1,6 @@
 # Age finder 
 name=input("Enter Your Name :- ")
+
 age=int(input("Enter Your Current age :- "))
 
 print("Your name is",name,"and your current age is",age)

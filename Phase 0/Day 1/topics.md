@@ -1,5 +1,6 @@
 # AI Agent Journey
 
+
 ## Phase 0 – Python
 
 ### Day 1
