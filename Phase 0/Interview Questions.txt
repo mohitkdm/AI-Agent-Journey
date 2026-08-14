@@ -1,0 +1,49 @@
+
+1. What is Python?
+2. Why is Python called an interpreted language?
+3. What is a variable?
+4. Difference between mutable and immutable objects?
+5. Difference between list and tuple?
+6. Difference between int and float?
+7. What does the input() function do?
+8. What is type casting?
+9. Why is Python called dynamically typed?
+10. Name the main types of operators in Python.
+
+11. What is a Boolean value?
+12. What does an if statement do?
+13. Difference between if, if-else, and if-elif-else?
+14. What is a nested if?
+15. Difference between == and =?
+16. What does and do?
+17. What does or do?
+18. What does not do?
+19. Why is indentation important in Python?
+20. How do you check if a number is even?
+
+21. What is a loop?
+22. Difference between for and while?
+23. What does range() do?
+24. What is an infinite loop?
+25. What does break do?
+26. What does continue do?
+27. When should you use a while loop instead of a for loop?
+28. How do you print numbers from 1 to 100?
+29. How do you calculate a factorial using a loop?
+30. How do you check whether a number is prime?
+
+31. Function kya hota hai?
+32. Function ki zarurat kyun hoti hai?
+33. Function kaise define karte hain?
+34. Function ko call kaise karte hain?
+35. Parameter aur argument mein difference?
+36. return kya karta hai?
+37. print() aur return mein difference?
+38. Default argument kya hota hai?
+39. Keyword argument kya hota hai?
+40. *args kya hai?
+41. **kwargs kya hai?
+42. Local aur global variable mein difference?
+43. Lambda function kya hai?
+44. Recursion kya hai?
+45. Recursion mein base condition kyun important hai?
