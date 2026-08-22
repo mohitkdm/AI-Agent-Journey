@@ -1,4 +1,4 @@
-
+Day 1
 1. What is Python?
 2. Why is Python called an interpreted language?
 3. What is a variable?
@@ -10,6 +10,7 @@
 9. Why is Python called dynamically typed?
 10. Name the main types of operators in Python.
 
+Day 2
 11. What is a Boolean value?
 12. What does an if statement do?
 13. Difference between if, if-else, and if-elif-else?
@@ -21,6 +22,7 @@
 19. Why is indentation important in Python?
 20. How do you check if a number is even?
 
+Day 3
 21. What is a loop?
 22. Difference between for and while?
 23. What does range() do?
@@ -32,6 +34,7 @@
 29. How do you calculate a factorial using a loop?
 30. How do you check whether a number is prime?
 
+Day 4
 31. Function kya hota hai?
 32. Function ki zarurat kyun hoti hai?
 33. Function kaise define karte hain?
@@ -47,3 +50,20 @@
 43. Lambda function kya hai?
 44. Recursion kya hai?
 45. Recursion mein base condition kyun important hai?
+
+Day 5
+46. String kya hoti hai?
+47. Python strings mutable hain ya immutable?
+48. String indexing kya hai?
+49. Positive aur negative indexing mein difference?
+50. String slicing kya hai?
+51. string[::2] kya karega?
+52. [::-1] ka kya use hai?
+53. lower() aur upper() kya karte hain?
+54. strip() kya karta hai?
+55. find() aur count() mein difference?
+56. split() kya karta hai?
+57. join() kya karta hai?
+58. f-string kya hoti hai?
+59. isalpha() aur isdigit() kya check karte hain?
+60. Python strings immutable kyun important hai?
