@@ -67,3 +67,25 @@ Day 5
 58. f-string kya hoti hai?
 59. isalpha() aur isdigit() kya check karte hain?
 60. Python strings immutable kyun important hai?
+
+Day 6
+61. What is a list?
+62. Why are lists called mutable?
+63. Difference between append() and extend()?
+64. Difference between remove() and pop()?
+65. What is a tuple?
+66. List vs tuple?
+67. What is a set?
+68. Why does a set remove duplicates?
+69. What is a dictionary?
+70. What is a key-value pair?
+71. Difference between dict[key] and dict.get(key)?
+72. What does items() return?
+73. What is a nested dictionary?
+74. What is list comprehension?
+75. What is dictionary comprehension?
+
+⭐ Important Interview Question
+Why are dictionaries so commonly used when working with APIs?
+Think about this before reading the answer:
+:- APIs commonly exchange structured key-value data, such as JSON. Python dictionaries map naturally to that structure.
