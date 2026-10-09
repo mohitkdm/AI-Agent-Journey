@@ -1,0 +1,4 @@
+mohit|21|btech|85
+mohit|51|ddd|85
+mmg|ff|ff|ff
+Name :mohit | Age :21 | Course :btech | Marks :85 

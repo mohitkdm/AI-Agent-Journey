@@ -89,3 +89,20 @@ Day 6
 Why are dictionaries so commonly used when working with APIs?
 Think about this before reading the answer:
 :- APIs commonly exchange structured key-value data, such as JSON. Python dictionaries map naturally to that structure.
+
+Day 7
+76. File handling kya hoti hai?
+77. open() function kya karta hai?
+78. r, w, aur a modes mein difference?
+79. w mode dangerous kyun ho sakta hai?
+80. read() aur readline() mein difference?
+81. readlines() kya return karta hai?
+82. with open() kyun use karte hain?
+83. Exception kya hoti hai?
+84. try-except kya karta hai?
+85. ValueError kab aata hai?
+86. ZeroDivisionError kya hai?
+87. else in exception handling kab execute hota hai?
+88. finally kya karta hai?
+89. raise keyword kya karta hai?
+90. Specific exception handle karna better kyun hai?
